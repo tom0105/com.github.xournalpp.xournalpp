@@ -97,7 +97,7 @@ modules:
     sources:
       - type: git
         url: https://github.com/xournalpp/xournalpp
-        commit: 14e9012b94e005112387dbb7d2ed59274d542885
-        tag: 1.0.10
+        commit: cc44b206b75eac2cce98b3124d7e6292c5492614
+        tag: 1.0.12
       - type: file
         path: xournalpp.appdata.xml
