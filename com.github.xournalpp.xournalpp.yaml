@@ -90,9 +90,6 @@ modules:
 
     sources:
       - type: git
-        url: https://github.com/muelli/xournalpp.git
-        # commit: 28b72eec31bf8081f842540cd1d891a48bab7603
-        branch: rename-appid
-
-      - type: file
-        path: xournalpp.appdata.xml
+        url: https://github.com/xournalpp/xournalpp.git
+        commit: 7a728c6453fd7bbb0d2caadc4bf992aaaba3365f
+        tag: 1.0.13-nightly.20190901
